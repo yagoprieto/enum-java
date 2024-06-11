@@ -1,1 +1,1 @@
-# enum-java
+exercício prático para treinamento de ENUM em Java.
